@@ -4,6 +4,7 @@ const frame = document.querySelector("#frame");
 let id = null;
 
 function animar() {
+
     let posicao = 0;
 
     clearInterval(id);
